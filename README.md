@@ -1,9 +1,6 @@
 <h1 align="center">Roomba</h1>
 
-<h3 align="center">Perfiles de GitHub de los autores de este proyecto:</h3>
-
-1. [@jmedina28](https://github.com/jmedina28)
-2. [@diegodesantos1](https://github.com/Diegodesantos1)
+He subido los archivos directamente, ya que era un trabajo en parejas inicialmente y el reporsitorio principal es inaccesible.
 
 ---
 En este [repositorio](https://github.com/jmedina28/Proyecto_Roomba) quedan resuelta la práctica del Roomba con interfaz gráfica implementada.
