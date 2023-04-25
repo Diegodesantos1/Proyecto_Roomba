@@ -3,7 +3,7 @@
 He subido los archivos directamente, ya que era un trabajo en parejas inicialmente y el reporsitorio principal es inaccesible.
 
 ---
-En este [repositorio](https://github.com/jmedina28/Proyecto_Roomba) quedan resuelta la práctica del Roomba con interfaz gráfica implementada.
+En este [repositorio](https://github.com/Diegodesantos1/Proyecto_Roomba) quedan resuelta la práctica del Roomba con interfaz gráfica implementada.
 ***
 <h1 align="center">Plano de la habitación</h1>
 
